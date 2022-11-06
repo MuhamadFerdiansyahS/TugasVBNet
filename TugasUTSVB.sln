@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "TugasUTSVB", "TugasUTSVB\TugasUTSVB.vbproj", "{004394A8-4FC7-4319-844D-7CB3920972B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EE83FF8B-D452-4FD0-A667-2DA1DA4E4AC9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004394A8-4FC7-4319-844D-7CB3920972B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004394A8-4FC7-4319-844D-7CB3920972B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004394A8-4FC7-4319-844D-7CB3920972B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004394A8-4FC7-4319-844D-7CB3920972B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C78F3D-E40C-41BC-BEC7-7E8FEF3A8967}
+	EndGlobalSection
+EndGlobal
